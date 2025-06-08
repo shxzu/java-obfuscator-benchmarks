@@ -3,7 +3,7 @@
 
 This repository is dedicated to benchmarking obfuscators and the way they behave, perform, and what abilities they have. More detailed benchmarking and graphing will be done soon. Please create an issue if errors occur within any part of this benchmarking.
 
-Created by sinxkyuna. Any duplicates or usage without proper credit will be **DMCAed!**
+Created by shxzu. Any duplicates or usage without proper credit will be **DMCAed!**
 
 # Descriptions of what the obfuscators did to the JARS.
 
